@@ -1,4 +1,10 @@
+
+;; Added by Package.el.  This must come before configurations of
+;; installed packages.  Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.
 (package-initialize)
+
 (defconst +home-dir+ "~")
 (defconst +emacs-dir+ (concat +home-dir+ "/emacs"))
 (defconst +emacs-profiles-dir+ (concat +emacs-dir+ "/profiles"))
@@ -52,7 +58,13 @@
  '(custom-safe-themes
    (quote
     ("8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" "a8245b7cc985a0610d71f9852e9f2767ad1b852c2bdea6f4aadc12cce9c4d6d0" default)))
- '(js2-strict-inconsistent-return-warning nil))
+ '(frame-background-mode (quote dark))
+ '(js2-strict-inconsistent-return-warning nil)
+ '(js2-strict-missing-semi-warning nil)
+ '(menu-bar-mode nil)
+ '(package-selected-packages (quote (auto-complete)))
+ '(scroll-bar-mode nil)
+ '(tool-bar-mode nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

@@ -1,6 +1,3 @@
-[submodule "libs/auto-complete"]
-	path = libs/auto-complete
-	url = https://github.com/azer/auto-complete.git
 [submodule "libs/coffee-mode"]
 	path = libs/coffee-mode
 	url = https://github.com/azer/coffee-mode.git
@@ -43,9 +40,6 @@
 [submodule "libs/yasnippet"]
 	path = libs/yasnippet
 	url = https://github.com/joaotavora/yasnippet.git
-[submodule "libs/popup"]
-	path = libs/popup
-	url = https://github.com/auto-complete/popup-el.git
 [submodule "libs/npm"]
 	path = libs/npm
 	url = https://github.com/azer/npm.el.git
@@ -76,9 +70,6 @@
 [submodule "libs/flycheck"]
 	path = libs/flycheck
 	url = https://github.com/flycheck/flycheck.git
-[submodule "libs/magit"]
-	path = libs/magit
-	url = git://github.com/magit/magit.git
 [submodule "libs/solarized"]
 	path = libs/solarized
 	url = https://github.com/sellout/emacs-color-theme-solarized.git
@@ -100,3 +91,6 @@
 [submodule "libs/git-grep"]
 	path = libs/git-grep
 	url = https://github.com/yasuyk/helm-git-grep.git
+[submodule "libs/tern"]
+	path = libs/tern
+	url = https://github.com/ternjs/tern

@@ -5,4 +5,4 @@
 (add-to-list 'auto-mode-alist '("\\.styl$" . stylus-mode))
 (add-to-list 'auto-mode-alist '("\\.jade$" . jade-mode))
 
-(add-to-list 'ac-modes 'stylus-mode)
+;;(add-to-list 'ac-modes 'stylus-mode)

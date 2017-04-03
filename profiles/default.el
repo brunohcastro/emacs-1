@@ -1,3 +1,4 @@
+(load-conf-file "package")
 (load-conf-file "string")
 (load-conf-file "solarized")
 (load-conf-file "align")
@@ -41,3 +42,4 @@
 
 (load-conf-file "flycheck")
 (load-conf-file "web")
+(load-conf-file "tern")

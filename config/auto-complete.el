@@ -1,11 +1,8 @@
-(add-lib-path "auto-complete")
-(add-lib-path "popup")
-
 (require 'auto-complete)
 (require 'auto-complete-config)
-
+(require 'popup)
 (ac-config-default)
-(ac-flyspell-workaround)
+;;(ac-flyspell-workaround)
 (add-to-list 'ac-dictionary-directories (concat +emacs-lib-dir+ "/auto-complete/dict"))
 
 (setq ac-comphist-file (concat +emacs-tmp-dir+ "/ac-comphist.dat"))
@@ -27,7 +24,8 @@
 (dolist (mode '(magit-log-edit-mode log-edit-mode org-mode text-mode haml-mode
                 sass-mode yaml-mode csv-mode espresso-mode haskell-mode
                 html-mode nxml-mode sh-mode smarty-mode clojure-mode
-                lisp-mode javascript-mode js2-mode js2-jsx-mode textile-mode markdown-mode tuareg-mode))
+                lisp-mode javascript-mode js2-mode js2-jsx-mode textile-mode markdown-mode tuareg-mode
+                tern-mode))
   (add-to-list 'ac-modes mode))
 
 ;;Key triggers

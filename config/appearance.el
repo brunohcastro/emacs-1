@@ -4,12 +4,13 @@
 (add-lib-path "smooth-scrolling")
 (require 'smooth-scrolling)
 
-(menu-bar-mode -1)
+(menu-bar-mode nil)
 
 (if window-system
-    ((tool-bar-mode -1)
-     (menu-bar-mode -1)
-     (scroll-bar-mode -1)))
+    (custom-set-variables
+     '(tool-bar-mode nil)
+     '(menu-bar-mode nil)
+     '(scroll-bar-mode nil)))
 
 ;;highlight current line
 (global-hl-line-mode 1)

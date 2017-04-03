@@ -1,2 +1,2 @@
-(set-default-font "Inconsolata-12")
-(setq-default line-spacing 5)
+(set-default-font "Fira Code-10")
+(setq-default line-spacing 2)

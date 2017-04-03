@@ -3,7 +3,7 @@ DONE="${CHECK} DONE."
 
 all: install
 
-install: init-submodules install-js2mode install-go-tools install-helm
+install: init-submodules install-js2mode install-go-tools install-helm install-tern
 	@mkdir libs/color-theme/themes
 	@echo $(DONE)
 
@@ -19,6 +19,9 @@ install-magit:
 
 install-helm:
 	@cd libs/helm && make
+
+install-tern:
+	@cd libs/tern && npm install
 
 install-go-tools:
 	@go get github.com/rogpeppe/godef

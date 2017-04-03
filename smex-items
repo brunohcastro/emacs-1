@@ -1,0 +1,30 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ copy-file
+ auto-complete-mode
+ package-install
+ auto-complete
+ helm-elscreen
+ comment-region
+)
+
+;; ----- smex-data -----
+(
+ (javascript-mode . 1)
+ (profiler-find-profile . 1)
+ (tern-mode . 3)
+ (auto-complete-mode . 9)
+ (auto-complete . 1)
+ (tern-ac-dot-complete . 6)
+ (tern-ac-setup . 4)
+ (tern-ac-complete . 3)
+ (package-list-packages . 3)
+ (copy-file . 2)
+ (slim-comment-block . 1)
+ (comment-region . 1)
+ (helm-elscreen . 1)
+ (package-install . 1)
+ (tern-use-server . 1)
+)

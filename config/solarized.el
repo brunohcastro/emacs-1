@@ -2,4 +2,4 @@
 ;;(load-theme "solarized-dark")
 (set-frame-parameter nil 'background-mode 'dark)
 (customize-set-variable 'frame-background-mode 'dark)
-(load-theme 'solarized t)
+(load-theme 'darcula t)

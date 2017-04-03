@@ -1,0 +1,90 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/bruno/.emacs.d.old/" . "config/")
+ ("/home/bruno/emacs/libs/tern/" . "emacs/")
+ ("/home/bruno/emacs/libs/" . "tern/")
+ ("/home/bruno/emacs/" . "config/")
+ ("/home/" . "bruno/")
+ ("/" . "home/")
+ ("/home/bruno/Development/projects/solseg/gateway/" . "server/")
+ ("/home/bruno/Development/projects/solseg/" . "gateway/")
+ ("/home/bruno/Development/projects/" . "solseg/")
+ ("/home/bruno/Development/" . "projects/")
+ ("/home/bruno/" . "Development/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/bruno/Development/projects/solseg/gateway/server/"
+ "/home/bruno/emacs/config/"
+ "/home/bruno/emacs/"
+ "/home/bruno/.emacs.d.old/"
+ "/home/bruno/emacs/profiles/"
+ "/home/bruno/.emacs.d.old/config/"
+ "/home/bruno/Development/projects/solseg/gateway/"
+ "/home/bruno/emacs/libs/tern/emacs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.js"
+ "solarized.el"
+ "init.el"
+ "auto-complete.el"
+ "default.el"
+ "packages.el"
+ "jade-mode.el"
+ "basic.el"
+ "basic-bindings.el"
+ ".tern-port"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/bruno/" (22753 59504 938694 932000) ".AndroidStudio2.3/" ".offlineimap.py" ".Braid/" ".config/" ".pki/" "Android/" ".asdf/" ".face" ".bash_profile" ".bash_logout" "Imagens/" ".authinfo" ".gimp-2.8/" "emacs/" ".authinfo.gpg" ".emacs.d.old/" ".gtkrc-2.0" ".emacs.d/" ".w3m/" ".WebStorm2016.3/" ".kube/" "Documents/" ".steam/" ".cache/" ".offlineimaprc" ".gnome/" ".zsh_history" ".nixnote/" ".dropbox-dist/" ".gnupg/" ".oh-my-zsh/" ".CLion2016.3/" ".offlineimap.pyc" ".ngspice_history" ".java/" ".android/" ".tomighty/" ".zsh-update" ".gphoto/" ".WebStorm2017.1/" ".gtkrc-2.0-kde4" ".vmware/" "Development/" ".Xauthority" "Pictures/" "Mail/" ".mu/" ".gimp-2.8.backup.20170330182809/" ".kde4/" ".esd_auth" ".steampid" ".pulse-cookie" "Desktop/" "octave/" ".PyCharm2017.1/" ".face.icon" "Vídeos/" ".zshrc" ".npm/" "go/" ".wget-hsts" ".fltk/" ".gradle/" ".fonts.conf" ".tool-versions" ".offlineimap/" "Drive/" ".bashrc" ".mozilla/" ".password-store/" ".node_repl_history" "logs/" "./" ".kingsoft/" ".sane/" ".ssh/" ".local/" ".docker/" ".octave_packages" ".zcompdump-hunters-dream-5.3.1" ".atom/" "../" ".recently-used" ".texlive/" ".qucs/" "Dropbox/" ".octave_hist" ".dropbox/" ".steampath" "Downloads/")
+
+ ("/home/bruno/Development/projects/solseg/gateway/server/" (22753 59200 179214 675000) "component-config.js" "services/" "routes/" "mixins/" "config.js" ".tern-project" "models/" "views/" "middleware.js" "controllers/" "data/" ".tern-port" "datasources.js" "model-config.js" "boot/" "middleware.local.js" "./" "../" "policy/" "index.js")
+
+ ("/home/bruno/emacs/" (22753 58921 149954 951000) "auto-save-list/" "Makefile" "snippets/" "README.md" ".travis.yml" "custom.example.el" ".git/" "./" "profiles/" "elpa/" "../" "ido.last" "ac-comphist.dat" "init.el" "smex-items" "libs/" ".gitignore" ".gitmodules" "config/")
+
+ ("/home/bruno/emacs/config/" (22753 57781 472372 648000) "cmd.el" "slim.el" "expand-region.el" "flycheck.el" "optimize.el" "dash.el" "align.el" "idomenu.el" "colorize-compilation.el" "undo-tree.el" "smart-forward.el" "eshell.el" "node.el" "js2.el" "zsh.el" "ido.el" "colors.el" "paredit.el" "debug.el" "smex.el" "web.el" "string.el" "zencoding.el" "linum.el" "font.el" "helm.el" "shell.el" "erc.el" "json.el" "auto-complete.el" "git.el" "markdown.el" "js2-refactor.el" "basic-bindings.el" "basic.el" "lisp.el" "css.el" "npm.el" "./" "indent.el" "jade-mode.el" "solarized.el" "powerline.el" "../" "tern.el" "appearance.el" "yasnippet.el" "golang.el" "package.el" "coffee.el" "fiplr.el" "clojure.el")
+
+ ("/home/bruno/Development/projects/solseg/gateway/" (22753 42556 449793 108000) ".imdone/" ".tern-project" "lib/" ".editorconfig" "README.md" ".npmignore" ".tern-port" ".git/" ".eslintignore" "test/" ".npmrc" "./" "docker-compose.yml" ".gitlab-ci.yml" ".eslintrc" "../" "bin/" "package.json" ".dockerignore" "node_modules/" ".gitignore" "Dockerfile" "server/")
+
+ ("/home/bruno/Development/projects/solseg/gateway/node_modules/" (22752 10023 371817 622000) "libbase64/" "cookie-signature/" "map-stream/" "cli-cursor/" "dateformat/" "random-bytes/" "array-union/" "undefsafe/" "utils-merge/" "braces/" "date-extended/" "passport-local/" "har-schema/" "resolve-from/" "punycode/" "minimatch/" "abbrev/" "toposort/" "fs-sync/" "http-signature/" "exit-hook/" "eventemitter2/" "on-headers/" "cookie/" "promise-extended/" "end-of-stream/" "compression/" "os-tmpdir/" "bunyan/" "filename-regex/" "table/" "pluralize/" "ignore-by-default/" "acorn/" "process-nextick-args/" "is-equal-shallow/" "jws/" "http-proxy/" "bcryptjs/" "path-parse/" "eyes/" "ramda/" "xtend/" "path-is-absolute/" "mongodb-core/" "lodash._bindcallback/" "clone-stats/" "httpntlm/" "passport-http/" "lodash._root/" "range-parser/" "strip-ansi/" "xmlbuilder/" "glob-parent/" "expand-tilde/" ".bin/" "lodash._basevalues/" "supports-color/" "mime-types/" "levn/" "lodash._reescape/" "del/" "osenv/" "nested-error-stacks/" "json-stringify-safe/" "mv/" "circular-json/" "@pontiff/" "arguments-extended/" "concat-stream/" "buildmail/" "deep-extend/" "cookiejar/" "is-fullwidth-code-point/" "lolex/" "is-posix-bracket/" "word-count/" "detect-file/" "etag/" "pause/" "lodash._baseassign/" "glob/" "semver-diff/" "fill-range/" "rx-lite/" "nan/" "proxy-addr/" "slide/" "q/" "timed-out/" "is-path-inside/" "keypress/" "bcrypt-pbkdf/" "eventemitter3/" "uid-safe/" "global-modules/" "caller-path/" "escope/" "lodash._reevaluate/" "formidable/" "unc-path-regex/" "os-locale/" "wrap-ansi/" "growl/" "base64url/" "media-typer/" "lodash.pick/" "http-errors/" "natural-compare/" "pino-http/" "which/" "string-length/" "espree/" "write/" "es6-set/" "lodash._createassigner/" "randomatic/" "methods/" "forwarded/" "raw-body/" "concat-map/" "v8flags/" "mime-db/" "chai/" "canonical-json/" "cliui/" "ee-first/" "jayson/" "diff/" "touch/" "http-status/" "for-in/" "sshpk/" "lodash._isiterateecall/" "mongodb/" "pinkie-promise/" "qs/" "json-stable-stringify/" "ecdsa-sig-formatter/" "uglify-to-browserify/" "is-path-cwd/" "pretty-hrtime/" "combined-stream/" "uuid/" "dom-serializer/" "docker-modem/" "argparse/" "co/" "eslint-plugin-mocha/" "js2xmlparser/" "defaults/" "liftoff/" "topo/" "latest-version/" "graceful-fs/" "fs-exists-sync/" "sse/" "content-disposition/" "quick-format-unescaped/" "sntp/" "ejs/" "esrecurse/" "ecc-jsbn/" "tunnel-agent/" "basic-auth/" "pkginfo/" "is-primitive/" "swagger-client/" "to-utf8/" "dtrace-provider/" "pinkie/" "underscore.string/" "dashdash/" "strip-json-comments/" "assert-plus/" "mime/" "foreach/" "fancy-log/" "is-my-json-valid/" "micromatch/" "is-path-in-cwd/" "text-table/" "ms/" "globals/" "nodemailer-stub-transport/" "archy/" "jsonparse/" "callsites/" "glob-stream/" "fresh/" "normalize-path/" "assertion-error/" "js-yaml/" "reduce-component/" "chokidar/" "split2/" "generate-function/" "es6-weak-map/" "vinyl-fs/" "requires-port/" "nodemailer/" "bl/" "readable-stream/" "to-iso-string/" "inflight/" "stream-consume/" "extended/" "supertest/" "smtp-connection/" "esquery/" "sequencify/" "xdg-basedir/" "stream-serializer/" "mute-stream/" "extglob/" "map-cache/" "arrify/" "bytes/" "amdefine/" "caseless/" "parse-passwd/" "deep-eql/" "code-point-at/" "resolve-dir/" "hoek/" "is-npm/" "passport-oauth2-client-password/" "configstore/" "doctrine/" "event-emitter/" "passport/" "typedarray/" "is-dotfile/" "is-utf8/" "negotiator/" "lodash.defaults/" "depd/" "json-schema/" "stream-shift/" "lodash._basetostring/" "babel-code-frame/" "aws4/" "sax/" "object-extended/" "optionator/" "array-flatten/" "is-extended/" "gulp/" "lodash.restparam/" "strip-bom/" "crypt/" "async/" "unpipe/" "content-type/" "has-ansi/" "destroy/" "lodash.assign/" "lodash.isarguments/" "es5-ext/" "ht/" "@firelink/" "findup-sync/" "fast-levenshtein/" "anymatch/" "tar-stream/" "prepend-http/" "ajv/" "multipipe/" "lowercase-keys/" "is-extendable/" "leafy/" "path-root-regex/" "interpret/" "estraverse/" "duplex/" "is-number/" "on-finished/" "crc/" "mux-demux/" "es6-symbol/" "ansi-regex/" "moment/" "tildify/" "gaze/" "inquirer/" "object.assign/" "for-own/" "isstream/" "ipaddr.js/" "prelude-ls/" "commander/" "binary-extensions/" "split/" "nodemon/" "path-is-inside/" "y18n/" "lodash-compat/" "vinyl/" "express-session/" "pump/" "async-listener/" "is-finite/" "sparkles/" "array-extended/" "aws-sign2/" "js-tokens/" "yargs/" "mailcomposer/" "forever-agent/" "optional/" "progress/" "ansi-styles/" "ansi-escapes/" "nodemailer-smtp-pool/" "is-absolute/" "serve-static/" "body-parser/" "tryit/" "sinon/" "JSONStream/" "write-file-atomic/" "debug/" "set-immediate-shim/" "through2/" "htmlparser2/" "is-redirect/" "expand-brackets/" "lodash.isempty/" "brace-expansion/" "_/" "passport-http-bearer/" "entities/" "oauth-sign/" "event-stream/" "fast-safe-stringify/" "emitter-listener/" "string_decoder/" "ncp/" "lodash._basecopy/" "libqp/" "unique-stream/" "bson/" "nconf/" "type-is/" "glob-watcher/" "jsonpath-plus/" "fined/" "replace-ext/" "form-data/" "lodash.mapvalues/" "pause-stream/" "formatio/" "jsbn/" "object.omit/" "request/" "function-bind/" "has-gulplog/" "util/" "asynckit/" "connect-ensure-login/" "async-each/" "shimmer/" "orchestrator/" "buffer-equal-constant-time/" "hawk/" "ini/" "time-stamp/" "jsprim/" "jsonify/" "btoa/" "backoff/" "window-size/" "redis/" "options/" "figures/" "superagent/" "httpreq/" "bluebird/" "setprototypeof/" "os-homedir/" "is-typedarray/" "is-windows/" "semver/" "deep-is/" "lodash.escape/" "duplexer/" "lru-cache/" "parse-filepath/" "fast-json-parse/" "rechoir/" "from/" "arr-flatten/" "resolve/" "string-width/" "addressparser/" "lodash.assignwith/" "update-notifier/" "util-deprecate/" "registry-url/" "type-detect/" "beeper/" "uglify-js/" "is-glob/" "minimist/" "morgan/" "accepts/" "got/" "is-unc-path/" "glogg/" "array-unique/" "invert-kv/" "passport-strategy/" "escape-html/" "camelcase/" "split-ca/" "repeat-element/" "readline2/" "es6-iterator/" "isemail/" "lodash.isplainobject/" "lodash.template/" "vary/" "natives/" "jsonpointer/" "serve-favicon/" "string-extended/" "fs.realpath/" "shelljs/" "nodemailer-smtp-transport/" "type-check/" "cors/" "commondir/" "pify/" "charenc/" "require_optional/" "lodash.once/" "mocha/" "lcid/" "deprecated/" "boom/" "is-property/" "delayed-stream/" "inherits/" "component-emitter/" "isarray/" "extend/" "parse-glob/" "rimraf/" "rc/" "arr-diff/" "core-util-is/" "d/" "bops/" "gulp-util/" "encodeurl/" "xml2js/" "homedir-polyfill/" "ajv-keywords/" "es6-map/" "nools/" "onetime/" "run-async/" "infinity-agent/" "cli-width/" "finalhandler/" "socks/" "parseurl/" "global-prefix/" "pino/" "express-pino-logger/" "user-home/" "continuation-local-storage/" "msgpack-js/" "slice-ansi/" "object-keys/" "glob-base/" "traverse/" "stringstream/" "yamljs/" "smart-buffer/" "esprima/" "wrappy/" "tough-cookie/" "path-root/" "secure-keys/" "array-differ/" "domhandler/" "domelementtype/" "is-extglob/" "tweetnacl/" "decamelize/" "restore-cursor/" "compressible/" "jade/" "samsam/" "asn1/" "is-relative/" "uid2/" "source-map/" "buffer-shims/" "lodash._reinterpolate/" "libmime/" "flagged-respawn/" "dockerode/" "underscore/" "chalk/" "duplexer2/" "lodash.isstring/" "is-stream/" "number-is-nan/" "es6-promise/" "escape-string-regexp/" "verror/" "g11n-pipeline/" "repeating/" "isobject/" "nopt/" "is-resolvable/" "extsprintf/" "safe-buffer/" "merge-descriptors/" "inflection/" "ignore/" "nodemailer-shared/" "function-extended/" "repeat-string/" "getpass/" "send/" "expand-range/" "is-buffer/" "base64-js/" "through/" "mktmpdir/" "sigmund/" "jwa/" "lodash.keys/" "imurmurhash/" "esutils/" "jsonwebtoken/" "nodemailer-fetch/" "duplexify/" "posix-getopt/" "wordwrap/" "read-all-stream/" "package-json/" "find-index/" "statuses/" "declare.js/" "clone/" "har-validator/" "generate-object-property/" "pino-socket/" "domutils/" "nodemailer-wellknown/" "precond/" "mkdirp/" "sprintf-js/" "express/" "eslint/" "flatstr/" "once/" "extender/" "readdirp/" "regex-cache/" "file-entry-cache/" "lodash._getnative/" "is-binary-path/" "glob2base/" "tar-fs/" "first-chunk-stream/" "cryptiles/" "globule/" "lodash/" "lodash.isarray/" "isexe/" "dotenv/" "path-to-regexp/" "define-properties/" "flat-cache/" "stream-combiner/" "acorn-jsx/" "jodid25519/" "md5/" "kind-of/" "preserve/" "joi/" "msgpack-stream/" "globby/" "ps-tree/" "json-buffer/" "lodash.templatesettings/" "safe-json-stringify/" "stable/" "require-uncached/" "nodemailer-direct-transport/" "ordered-read-streams/" "rx/" "ip/" "object-assign/" "array-uniq/" "iconv-lite/" "gulplog/" "performance-now/" "balanced-match/" "../" "./")
+
+ ("/home/bruno/Development/projects/solseg/gateway/node_modules/@firelink/" (22735 32393 815874 814000) "component-oauth2/" "context/" "middleware-policy/" "middleware-proxy/" "middleware-remote-auth/" "connector-remote/" "connector-mongodb/" "connector/" "connector-rest/" "datasource-juggler/" "boot/" "./" "component-explorer/" "../" "policy/" "middleware-rate-limiter/" "swagger/" "core/" "phase/")
+
+ ("/home/bruno/Development/projects/solseg/gateway/node_modules/@firelink/datasource-juggler/" (22735 32393 802541 481000) "3.0-RELEASE-NOTES.md" "docs/" "lib/" "NOTICE" ".editorconfig" "support/" "examples/" "README.md" ".npmignore" ".eslintignore" "test/" "./" ".eslintrc" "../" "package.json" "docs.json" "node_modules/" ".gitmodules" "intl/" "index.js")
+
+ ("/home/bruno/Development/projects/solseg/gateway/node_modules/@firelink/datasource-juggler/lib/" (22735 32389 942541 618000) "types.js" "relation-definition.js" "model.js" "list.js" "include.js" "browser.depd.js" "validations.js" "utils.js" "scope.js" "connectors/" "introspection.js" "observer.js" "model-definition.js" "geo.js" "dao.js" "datasource.js" "kvao/" "transaction.js" "./" "model-builder.js" "../" "hooks.js" "jutil.js" "include_utils.js" "mixins.js" "relations.js")
+
+ ("/home/bruno/emacs/profiles/" (22753 41491 954045 513000) "default.el" "js.el" "./" "../" "golang.el" "coffee.el" "clojure.el")
+
+ ("/home/bruno/.emacs.d.old/config/" (22737 32439 465688 200000) "packages.el" "ace-window.el" "orgmode.el" "mail.el" "helm.el" "org/" "backups.el" "./" "../")
+
+ ("/home/bruno/.emacs.d.old/" (22752 30809 239589 247000) "auto-save-list/" ".offlineimap.py" "user-packages/" "recentf" "network-security.data" ".offlineimaprc" "backups/" "project-explorer-cache/" "README.md" ".git/" "./" "elpa/" "../" "ac-comphist.dat" "init.el" ".gitignore" ".gitmodules" "lisp/" "config/")
+
+ ("/home/bruno/Development/projects/solseg/gateway/server/services/" (22734 53034 545141 739000) "ProfileService.js" "./" "../" "listeners/" "index.js")
+
+ ("/home/bruno/emacs/libs/tern/emacs/" (22753 15608 123055 433000) "tern-auto-complete.el" "./" "../" "tern.el")
+
+ ("/home/bruno/emacs/libs/tern/" (22753 17031 335929 73000) "LICENSE" "index.html" "emacs/" ".gitattributes" ".no-sublime-package" ".tern-project" "lib/" "plugin/" "README.md" ".travis.yml" "doc/" "defs/" ".git" "AUTHORS" ".jshintrc" "test/" "./" "../" "bin/" "package.json" "CONTRIBUTING.md" "node_modules/" ".gitignore")
+
+ ("/home/bruno/emacs/libs/" (22753 15605 809659 925000) "dash/" "json/" "js-comint/" "web-mode/" "smooth-scrolling/" "tern/" "go-mode/" "expand-region/" "git-grep/" "relative-line-numbers/" "popup/" "smex/" "helm/" "s/" "undo-tree/" "coffee-mode/" "async/" "powerline/" "zencoding/" "npm/" "smart-forward/" "auto-complete/" "color-theme/" "js2-mode-compiled/" "rename-file.el" "markdown-mode/" "jade-mode/" "mark-multiple/" "multiple-cursors/" "let-alist/" "fiplr/" "js2-refactor/" "dircolors/" "yasnippet/" "gocode/" "./" "slim/" "go-errcheck/" "paredit/" "../" "rainbow/" "magit/" "js2-mode/" "solarized-theme/" "clojure-mode/" "grizzl/" "golang/" "flycheck/")
+
+ ("/home/bruno/Development/projects/solseg/gateway/lib/" (22734 53034 531808 406000) "router/" "security/" "scripts/" "internal-jwt/" "logger/" "pubsub/" "./" "password-recovery/" "../")
+
+ ("/home/" (22733 64917 339684 939000) "./" "lost+found/" "bruno/" "../")
+
+ ("/home/bruno/Development/projects/solseg/" (22734 53062 255141 117000) "eproject.cfg" "webapp-old/" "webapp/" "messaging/" "ReactNativeApp/" ".tern-project" "archive/" "webapp-council/" "webapp-staged/" "gateway/" "README.md" "occurrence/" "resources/" ".idea/" "starter/" "todo.org" ".git/" "TODO.md" "gulpfile.js" "common/" "auth/" "community/" "./" "council/" "docker-compose.yml" ".eslintrc" "../" "package.json" "utils/" ".gitignore" "locale/" "maintenance/" ".gitmodules" "certificates/" "android/")
+
+ ("/home/bruno/Development/projects/" (22748 17457 865110 370000) "ng-irithyll/" "firelink/" "solseg/" "ng-input-mask/" "pontiff/" "test/" "./" "../" "keyboards/")
+
+ ("/home/bruno/Development/" (22745 11579 843845 499000) "sandbox/" "projects/" "keystores/" "portfolio/" "./" ".directory" "../" "arm/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
