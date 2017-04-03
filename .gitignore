@@ -3,3 +3,4 @@ libs/js2-mode-compiled
 libs/magit
 custom.el
 .DS_Store
+elpa/
